@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmNai12
-- 👀 I’m interested in C++ | JAVA | Python and Data Structures
+- 👀 I’m like Python(Numpy, Django, Flask) | C++ | JAVA | DSA | Algorithms
 - 💞️ I’m looking to collaborate on SDE projects
 - 📫 How to reach me My mail ID is : omnayinor97@gmail.com
 
